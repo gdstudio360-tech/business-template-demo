@@ -426,7 +426,7 @@
 }
 
 
-/* v0.9 — separate accreditation marks from Lipame's public website */
+/* Example accreditation marks for the business template */
 .accreditations-inner{
   grid-template-columns:.55fr 1.45fr;
 }

@@ -13,3 +13,7 @@ This project demonstrates the Business website package: a responsive one-page si
 
 ## Package
 Business Website Template — Solar, Electrical & Energy Services
+
+- v13.2 final polish: enlarged Template logo in header/footer.
+- Services green treatment softened further.
+- Added a visible note that accreditation logos are for template demonstration purposes only.
